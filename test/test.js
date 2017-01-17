@@ -5,7 +5,7 @@ const dc = require('../');
 describe('#effectiveDamage()', () => {
 
   it('正常なダメージ計算ができる', () => {
-    assert.equal(dc.effectiveDamage(100, 50, 30), 833);
+    assert.equal(dc.effectiveDamage(100, 50, 30), 83);
   });
 
   it('負の異常値におけるダメージ計算ができる', () => {
