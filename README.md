@@ -1,6 +1,6 @@
 # damage-calc
 
-[![CircleCI](https://circleci.com/gh/YoheiTerashima/damage-calc-4005.svg?style=svg)](https://circleci.com/gh/YoheiTerashima/damage-calc-4005)
+[![CircleCI](https://circleci.com/gh/YoheiTerashima/damage-calc-4005/tree/master-2017.svg?style=svg)](https://circleci.com/gh/YoheiTerashima/damage-calc-4005/tree/master-2017)
 
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
