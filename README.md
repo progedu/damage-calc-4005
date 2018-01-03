@@ -1,4 +1,7 @@
 # damage-calc
+
+[![CircleCI](https://circleci.com/gh/YoheiTerashima/damage-calc-4005.svg?style=svg)](https://circleci.com/gh/YoheiTerashima/damage-calc-4005)
+
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
 
@@ -37,5 +40,3 @@ console.log(dc.effectiveDamage(100, 50, 30));
 計算すると 83.33333... となり、
 小数点以下の四捨五入の結果、実効ダメージの 83 の値が得られます。
 
-
-[![CircleCI](https://circleci.com/gh/YoheiTerashima/damage-calc-4005.svg?style=svg)](https://circleci.com/gh/YoheiTerashima/damage-calc-4005)
