@@ -32,7 +32,7 @@ function normalize(n) {
   } else if (n >= 2000) {
     return 2000;
   } else {
-    return n;
+    return n*1;
   }
 }
 
